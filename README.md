@@ -9,7 +9,7 @@ O projeto foi criado em:
 - [x] Criação do CSS
 - [x] Criação do JavaScript
 
-Resultado: 
+Resultado: https://gleysiferreira.github.io/Average-Calculator/
 
 
 ## 🤝 Colaboradores
